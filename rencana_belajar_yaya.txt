@@ -1,5 +1,6 @@
 Rencana yang akan fitrah pelajari :
 - belajar tentang git
-- belajar tentang github
+- belajar tentang commit
+- belajar tentang branch
 - belajar html dasar
 - belajar html intermidate
